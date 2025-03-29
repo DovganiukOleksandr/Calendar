@@ -7,6 +7,6 @@ export const Box = styled.div`
 `;
 
 export const Text = styled.p`
-    font-size: 14px;
+    font-size: 16px;
     font-weight: bold;
 `;

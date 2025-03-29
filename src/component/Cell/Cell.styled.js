@@ -1,7 +1,7 @@
 import styled from "styled-components";
 
 export const Container = styled.li`
-    padding: 0 4px;
+    padding: 0 8px;
     background: ${({ colorDay, anotherMonth }) =>
         colorDay && anotherMonth === 0 ? "#edf8eb" : "white"};
     color: ${({ anotherMonth }) =>

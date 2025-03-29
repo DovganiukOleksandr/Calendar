@@ -10,8 +10,7 @@ export const BackDrop = styled.div`
 	}`;
 
 export const Title = styled.li`
-    margin-top: 2px;
-    font-size: 14px;
+    font-size: 17px;
     background-color: var(--main-color);
     color: black;
     cursor: pointer;
